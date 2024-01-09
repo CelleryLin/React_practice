@@ -1,3 +1,5 @@
+// 程式進入點
+
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
